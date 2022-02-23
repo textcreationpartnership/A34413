@@ -1,0 +1,495 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the library of Mr. Henry Cook, painter, deceased which will be sold by auction at his late dwelling house in Bloomsbury-Square, near King-Street in Bloomsbury, on Monday, the 30th instant, at three afternoon / by John Bullord.</title>
+            <author>Cook, Henry, 1642-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34413</idno>
+            <idno type="STC">Wing C6011</idno>
+            <idno type="STC">ESTC R20347</idno>
+            <idno type="EEBO-CITATION">12117111</idno>
+            <idno type="OCLC">ocm 12117111</idno>
+            <idno type="VID">54337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 88:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the library of Mr. Henry Cook, painter, deceased which will be sold by auction at his late dwelling house in Bloomsbury-Square, near King-Street in Bloomsbury, on Monday, the 30th instant, at three afternoon / by John Bullord.</title>
+                  <author>Cook, Henry, 1642-1700.</author>
+                  <author>Bullord, John.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1669?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Catalogues to be had at Mr. Parkers at the Unicorn under the Royal Exchange, Mr. Buck, near the Temple, Mr. Barnes, in the Pall-Mall, bookseller, and at the place of sale"</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cook, Henry, 1642-1700 --  Library.</term>
+               <term>Catalogs, Booksellers' --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54337:1"/>
+            <pb facs="tcp:54337:1" rendition="simple:additions"/>
+            <p>A CATALOGUE OF THE LIBRARY OF Mr. <hi>HENRY COOK,</hi> PAINTER, Deceaſed.</p>
+            <p>Which will be ſold by Auction at his late Dwelling Houſe in <hi>Bloomsbury-Square,</hi> near <hi>King-ſtreet</hi> in <hi>Bloomsbury,</hi> on <hi>Monday</hi> the 30th inſtant, at Three afternoon.</p>
+            <p>By <hi>JOHN B<g ref="char:V">Ʋ</g>LLORD.</hi>
+            </p>
+            <p>Catalogues to be had at Mr <hi>Parkers</hi> at the <hi>Unicorn</hi> under the <hi>Royal Exchange,</hi> Mr <hi>Buck,</hi> near the <hi>Temple,</hi> Mr <hi>Barnes</hi> in the <hi>Pall-Mall,</hi> Bookſellers, and at the Place of Sale.</p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:54337:2"/>
+            <head>Conditions of <hi>SALE.</hi>
+            </head>
+            <p n="1">1. <hi>THat he who bids moſt is the Buyer, and if any difference ariſe which the Company cannot decide, the Book or Books to be re-expoſed to Sale.</hi>
+            </p>
+            <p n="2">2. <hi>That all the Books in this Catalogue for ought we know are perfect, but if any appear otherwiſe the Buyer to have his choice of taking or leaving them.</hi>
+            </p>
+            <p n="3">3. <hi>That the Money for the Book or Books ſo bought, be paid within ſix days after the Sale is ended, at the place of Sale.</hi>
+            </p>
+            <p n="4">4. <hi>That no perſon advance leſs than</hi> 6 d. <hi>each bidding, after any Book ariſes to the ſumm of</hi> 10 s</p>
+            <p n="5">5. <hi>That the Books ſhall be expos'd to View three days before the Sale begins.</hi>
+            </p>
+            <p>Any Commiſſions may be ſent to <hi>J. Bullord.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Sold by <hi>J. Nicholſon, Tho. Newborough,</hi> and <hi>J. Bullord.</hi>
+            </head>
+            <p>MR <hi>Danets</hi> Dictionary of the <hi>Greek</hi> and <hi>Roman</hi> Antiquities for the uſe of the Dauphin, made <hi>Engliſh,</hi> and Improved with the Addition of uſeful Maps.</p>
+            <p>Mr. <hi>de la Bruyere</hi>'s Characters, tranſlated into <hi>Engliſh</hi> by ſeveral Hands. The Second Edition Corrected throughout.</p>
+         </div>
+      </front>
+      <body>
+         <div type="auction_catalogue__books">
+            <pb facs="tcp:54337:2"/>
+            <list>
+               <head>Libri Latini, Gall. &amp; Ital. in <hi>Folio, moſt of them gilt back and lettered.</hi>
+               </head>
+               <item>1 VEſalii Anatomia opt. Edit. <hi>Baſil</hi> 1543</item>
+               <item>2 Traite des Manieres de deſſiner les Ord. de l' Architect. Antique, par A Boſſe <hi>Poer.</hi> 1664</item>
+               <item>3 Parallele de l' Architecture par Rol. Freart <hi>Ib.</hi> 1650</item>
+               <item>4 Les Proportion du Corps Humain. par Audran. <hi>Ib.</hi> 1683</item>
+               <item>5 Hiſtoria Pontificum per eorum Numiſmata Authore Claudiolu Molinet <hi>Ib.</hi> 1679</item>
+               <item>6 Statutae Antiquae Fraen. Perrier <hi>Romae</hi> 1683</item>
+               <item>7 — Idem <hi>Par.</hi>
+               </item>
+               <item>8 Aedes Barberinae <hi>Rom.</hi> 1642</item>
+               <item>9 Dictionaire Francois Latin <hi>Par.</hi> 1573</item>
+               <item>10 Octav. de Strada Genealogia Auſtriaca <hi>Francof.</hi> 1629</item>
+               <item>11 Deſcription de tout le Pais-Bas, par Guicciardin. <hi>Anvers.</hi> 1567</item>
+               <item>12 Les 4 Livres d' Albert Durer, De la Proportion des parties des Corps Humain <hi>Arnhem</hi> 1614</item>
+               <item>13 Invention nouvelle de Perſpective. par R. G. S. D. a <hi>la Fleſhe</hi>
+               </item>
+               <item>14 Vitruvius cum commentar. Dan. Barbari <hi>Venet</hi> 1567</item>
+               <item>15 Le due Regole della Proſpettiva prattica di J. R. da Vignola</item>
+               <item>16 Leonard de Vinci ſur la Peinture <hi>Par.</hi> 1651</item>
+               <item>17 La Perſpective curieuſe, par Niceron <hi>Ib.</hi> 1653</item>
+               <item>18 La Prattica della Proſpettiva di Dan. Barbaro <hi>Ven.</hi> 1569</item>
+               <item>19 L' Architettura di Seb. Serlio <hi>Id.</hi> 1552</item>
+               <item>20 Traite de la Proportion pav. J. P. Lomazzo <hi>Toloſe</hi> 1619</item>
+               <item>21 Le Pitture Antiche de Sepolcro de' Naſonii <hi>Rom.</hi> 1680</item>
+               <item>22 Deſcrizzione delle Imagine depinte da Rafaelle de Bellori 1695</item>
+               <item>23 Le Fontane di Roma 3 parti <hi>Ib.</hi>
+               </item>
+               <item>24 L' Architettura di Andrea Palladio <hi>V<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 1642</item>
+               <item>25 Les Cinq Ordres d' Architecture de Scamozzi, avec les Planches par D' Aviler <hi>Par.</hi> 1685</item>
+               <item>26 L' Idea de' Pittori, Scultori, &amp; Architetti, del Caval. Fred. Zuccaro <hi>Torino</hi> 1607</item>
+               <item>27 L'Hiſtoria Auguſta di Fran. Angeloni <hi>Rom.</hi> 1641</item>
+               <item>28 Galleria Giuſtiniana</item>
+               <item>28 * Columna Trajana Editionis 1616</item>
+               <item>29 Colonna Traiana intagliata da P. Santi Bartoli <hi>Romo</hi>
+               </item>
+               <item>30 P. San. Bartoli Columna Antoniniana cum notis Bello<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ii <hi>Ib.</hi>
+               </item>
+               <item>31 Imagines Raphaelis in Aulaeis Vaticanis, Sculptae a P.S. Bartoli</item>
+               <item>32 Icones &amp; Segmenta illuſtr. e Marmore Tabularum, Fr. Perries</item>
+               <item>33 Pluſiers Portiques ſur les cinq ordres des Col. par Alex, Francine L' Enea Vagante de Carracci, intagliat dal Mitelli 1663</item>
+               <item>34 Reg. delli cinq. ord. d'Architettura di M. Jacomo Bar da Vignola</item>
+               <item>35 Regle des cinq Ordres d' Architecture de Vignole <hi>Par.</hi> 1662</item>
+               <item>36 Les Travaux d'Ulyſſe, par le Sr de St Martin gravez par van Tulden</item>
+               <item>37 A volume of <hi>le Potres</hi> Works</item>
+               <item>38 Another</item>
+               <item>49 Another</item>
+               <item>40 Aeſopi Fabulae Gall. &amp; Lat. cum figur. Fran. Barlow</item>
+               <item>41 Illuſtri Pittori Veneti &amp; dello Stato</item>
+            </list>
+            <list>
+               <pb n="2" facs="tcp:54337:3"/>
+               <head>Libri Lat. &amp; Ital. in <hi>Quarto.</hi>
+               </head>
+               <item>1 HOratii Opera <hi>Cantab. Typis Academicis</hi> 1699</item>
+               <item>2 Les Ceſars de' l' Empereur Julien, traduits du Grec. <hi>Par.</hi>
+               </item>
+               <item>3 Entretiens ſur les Vies des Peintres, par Felibien 2 Edit. 2 vol.</item>
+               <item>4 Les Principes de l' Architecture, Peinture, Sculpture, &amp; des au<g ref="char:EOLhyphen"/>tres Arts <hi>Par.</hi> 1690</item>
+               <item>5 Recueil Hiſtorique de la Vie des Architects <hi>Ib.</hi> 1687</item>
+               <item>6 Le Vite de' Pittori, Scultori, &amp; Architetti, del Vaſari 3 vol. <hi>Bologn</hi>
+               </item>
+               <item>7 — del Bellori <hi>Rom.</hi> 1692</item>
+               <item>8 — Il medeſimo (mancano i Ritratti)</item>
+               <item>9 — de' Pittori Genoueſi, del Soprani <hi>Gen.</hi> 1674</item>
+               <item>10 — de' Pittori Antichi, di Carlo Dati <hi>Firenze</hi> 1657</item>
+               <item>11 — de' Pittori Veneti, del Caval: Ridolſi 2 vol. <hi>Ven.</hi> 1648</item>
+               <item>12 La Vita del Cavalier Bernini, di Fil. Baldinucci <hi>Fir.</hi> 1682</item>
+               <item>13 Idee de la Perfection de la Peinture, par Rol. Freart. <hi>au Mons</hi>
+               </item>
+               <item>14 Le Gemme Antiche di Lion. Agoſtino, 2 vol. prima Impr.</item>
+               <item>15 Raccolta de'Diſegni &amp; Compartimenti diverſi tratti da marmi &amp; Bronzi degli Antichi</item>
+               <item>16 La Perſpective pratique, 3 vol. <hi>Par.</hi> 1651</item>
+               <item>17 Coeleſtis Phyſiognomoniae libr. 6. Jo. Bapt. Portae <hi>Neap.</hi> 1603</item>
+               <item>18 Della Fiſonomia di tutto il corpo humano, di G. B. della Porta</item>
+               <item>19 La Fiſonomia dell' Huomo. &amp; la Celeſte di G. B. della Porta</item>
+               <item>20 Imagini delli Dei de gl' Antichi, di Vincenzo Cartari <hi>Ib.</hi> 1647</item>
+               <item>21 Della Geneologia de gl' Dei, di Gio Boccaccio <hi>Ven:</hi> 1644</item>
+               <item>22 Iconologia de Ceſare Ripa Perugino <hi>Ib.</hi> 1669</item>
+               <item>23 J. Lipſii Saturnal. Sermonum lib. 2. <hi>Lng. Bat.</hi> 1588</item>
+               <item>24 — Poliorceticon, ſive de machinis, &amp;c. 1605</item>
+               <item>25 Menſae Iſiacae Expoſitio <hi>Ven.</hi> 1605</item>
+               <item>26 Oct. Ferrarius de re Veſtiaria lib. 7. <hi>Patav.</hi> 1654</item>
+               <item>27 Hieronymi Mercurialis de Arte Gymnaſtica, apud Juntas 1587</item>
+               <item>28 Arte dell' Armi d' Achille Marozzo con fig. <hi>Ven.</hi> 1568</item>
+               <item>29 Il Microcoſmo della Pittura, di Fran. Scanelli <hi>Geſena</hi> 1667</item>
+               <item>30 Brief. Hiſtoire de l' Inſtitution des Ordres Religieux, par Od Fialetti <hi>Par.</hi> 1668</item>
+               <item>31 La Perſpective d' Euclide, par Rol. Freart <hi>au Mons</hi> 1663</item>
+               <item>32 Jo. Bened. Sinibaldi de Hominis Generatione, Decateuchon.</item>
+               <item>33 Hen Regii Philoſophia Naturalis <hi>Amſtel.</hi> 1654</item>
+               <item>34 Coſmographia Petri Appiani, per Gemmam Friſium <hi>Ant.</hi>
+               </item>
+               <item>35 Biblia Sacra per Junium &amp; Tremellium <hi>Lond</hi> 1580</item>
+               <item>36 Diſcorſo della Relig. antica di Romani de G. Choul. <hi>Lione</hi> 1569</item>
+               <item>37 Roma antica di Famiano Nardini <hi>Roma</hi> 1666</item>
+               <item>38 Il Decamerone di Meſſer Gio Boccacio appreſſo i Gunti 1573</item>
+            </list>
+            <list>
+               <head>Libri Lat. Gall. &amp; Ital. in <hi>Octavo, moſt of them gilt Back and Lettered.</hi>
+               </head>
+               <item>1 L'Art de Peinture de C. A. du Freſnoy 1 Edit, <hi>Par.</hi> 1668</item>
+               <item>2 — le meſme, 3 Edition <hi>Ib.</hi> 1684</item>
+               <item>3 Le Peintre converty, par A Boſſe <hi>Ib.</hi> 1667</item>
+               <item>4 Les Sentimens ſur la deſtinction des manieres de Peintre, par A Boſſe <hi>Ib.</hi> 1649</item>
+               <pb n="3" facs="tcp:54337:3"/>
+               <item> 5 Habiti Antichi &amp; Moderni, di Ceſare Vecellio <hi>Ven.</hi> 1598</item>
+               <item>6 Les Memoires di Philippe de Commines <hi>Par.</hi> 1616</item>
+               <item>7 Abrege de la Vie des Peintres, par le Sr de Piles <hi>Ib.</hi> 1699</item>
+               <item>8 Hiſtoire des Arts qui ont rapport au Deſſein, par Monier <hi>Ib.</hi> 1698</item>
+               <item>9 Cabinet des Singularitez d' Architecture, Peinture, Sculpture &amp; Graveur, par Florent le Comte <hi>Ib.</hi> 1699</item>
+               <item>10 Oeuvres meſlees de Monſ. St Evremont, 5 Tom. 3 Vol. <hi>Par.</hi>
+               </item>
+               <item>11 Converſations ſur la Connoiſance de la Peinture, par le Sr de Piles</item>
+               <item>12 Diſſertation ſur les Ouvrages des plus Fameux Peintres, par le Meſme <hi>Ib.</hi> 1683</item>
+               <item>13 Les Eſſais de Michel Seig. de Montaigne, 3 Vol. <hi>Lyon</hi> 1669</item>
+               <item>14 Memoires pour l' Hiſtoire du Card. Duc. Richlieu, Tome, 1, 3, 4, 5.</item>
+               <item>15 L' Hiſtoiree du Card. Duc. Richelieu, 2 Vol. <hi>Cologne</hi> 1666</item>
+               <item>16 Les Avantures de Telemaque, 5 Vol. <hi>Haye</hi> 1699</item>
+               <item>17 L' Eſtat de l' Empire, de Monzambane <hi>Amſi.</hi> 1669</item>
+               <item>18 Reflections Morales 1692</item>
+               <item>19 Hiſtoire des Oracles 1687</item>
+               <item>20 Rogerus Baconus de retardandis Senectutis accidentibus <hi>Ox.</hi> 1590</item>
+               <item>21 Orlando Furioſo, del Arioſto con le Fig. <hi>Von. Valgriſi</hi> 1565</item>
+               <item>22 Diſcorſo di Guglielmo Choul ſopra la Caſtrametatione, e Bag<g ref="char:EOLhyphen"/>ni de' Greci &amp; Romani <hi>Ven.</hi> 1559</item>
+               <item>23 L' Antichità della Città di Roma, di Lucio Mauro <hi>Ven.</hi> 1562</item>
+               <item>24 Hiſtoriarum memorab. Vet. &amp; Nov. Teſtamenti deſcrip. cum fig. <hi>Lugd.</hi> 1558</item>
+               <item>25 Vitae &amp; Effigies Summorum Pontificum, deſcript. à Dom Tem<g ref="char:EOLhyphen"/>peſta <hi>Rom.</hi> 1596</item>
+               <item>26 L' Argenis de Barclay, Traduction <hi>Roven</hi> 1643</item>
+               <item>27 Don Chiſciotte della Mancia, tradot. dal Francioſini <hi>Ven.</hi> 1625</item>
+               <item>28 Eſſame de gl' Ingegni, tradot. dal Spagnuo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <hi>A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lo.</hi> 1590</item>
+               <item>29 Vegetius de re Militari, <hi>L. Bat.</hi> 1592</item>
+               <item>30 Jo. Bapt. Portae Magiae Naturalis Libri 20 <hi>Hanov.</hi> 1619</item>
+               <item>31 Traitè de l' Employ des Saints Peres, par J. Dail<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è <hi>Genev.</hi> 1632</item>
+               <item>32 Le Minere Della Pittura, di Marco Boſchini <hi>Ven.</hi> 1664</item>
+               <item>33 Trattato della Pittura, di Fran. Biſagno <hi>Ib.</hi> 1642</item>
+               <item>34 La Galleria del Marino <hi>Ib.</hi> 1667</item>
+               <item>35 Il Canzoniero, del Cav. Stigliani <hi>Rom.</hi> 1623</item>
+               <item>36 Relatione della Corte di Roma, di Gi. Lunadoro <hi>Ib.</hi> 1664</item>
+               <item>37 Diſcours touchant la Poudre de Sympathie, par Chev. Digby</item>
+               <item>38 Merveilles d' Egypte ſelon les Arabes <hi>Ib.</hi> 1666</item>
+               <item>39 Val. Cordi Diſpenſatorium <hi>Lugd.</hi> 1554</item>
+               <item>40 Le Noveau Teſtament <hi>Ib.</hi> 1604</item>
+               <item>41 Novum Teſtamentum Lat. &amp; Ital. (deeſt Titulus)</item>
+               <item>42 G. Ameſii medulla Theologica <hi>Amſt.</hi> 1628</item>
+               <item>43 — de Conſcientia liber <hi>Ib.</hi> 1631</item>
+               <item>44 — in Epiſtolas Petri <hi>Ib.</hi> 1635</item>
+               <item>45 St Auguſtini Meditationes &amp; Soliloquia <hi>Duaci</hi> 160<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>46 Euclidis Elementa <hi>Par.</hi> 1654</item>
+               <item>47 Hiſtoire Romain, de L Florus <hi>Tolouſe</hi> 1553</item>
+               <item>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> La Gieruſalemme lib. di Torquato Taſſo <hi>Rom.</hi> 1607</item>
+               <item>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Inſtructtione della Lingua Tedeſca &amp; Italiana <hi>Milano</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="4" facs="tcp:54337:4"/>
+               <head>Engliſh Books in <hi>Folio, moſt of them gilt Back and Lettered.</hi>
+               </head>
+               <item>1 THe great Hiſtorical, Geographical, and Poetical Dictio<g ref="char:EOLhyphen"/>nary 2 Vol. <hi>London</hi> 1694</item>
+               <item>2 <hi>Holyokes</hi> Dictionary 1677</item>
+               <item>3 <hi>Torriano</hi>'s <hi>Italian</hi> Dictionary 1687</item>
+               <item>4 <hi>Cambens Britannia,</hi> tranſlated by <hi>Edmond Gibſon</hi> 1695</item>
+               <item>5 <hi>Mariana</hi>'s Hiſtory of <hi>Spain,</hi> tranſlated by Capt. <hi>Stevens.</hi> large Paper</item>
+               <item>6 <hi>Plut arch</hi>'s Lives made <hi>Engliſh</hi> by Sir <hi>Tho. North</hi> 1676</item>
+               <item>7 The Gallery of Heroick Women, from the <hi>French,</hi> by the Marq. of <hi>Winton</hi> 1652</item>
+               <item>8 <hi>Cotgraves French</hi> Dictionary 1652</item>
+               <item>9 <hi>Miltons</hi> Poetical Works, with Sculptures 1695</item>
+               <item>10 <hi>Drydens Juvenal</hi> and <hi>Perſius</hi> 1693</item>
+               <item>11 — Fables 1700</item>
+               <item>12 Dr <hi>Fullers</hi> Piſgain-ſight of Paleſtine 1662</item>
+               <item>13 Archbiſhop <hi>Tillotſons</hi> Works, publiſhed in his Life time 1669</item>
+               <item>14 <hi>Locke</hi> of Humane Underſtanding 1695</item>
+               <item>15 <hi>Burnets</hi> Theory of the Earth 1684</item>
+               <item>16 <hi>Thucydides,</hi> Engliſhed by Mr <hi>Hobbs</hi> 1634</item>
+               <item>17 <hi>Hobbs</hi>'s Leviathan 1651</item>
+               <item>18 <hi>Ba<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons</hi> Nat. Hiſtory 1635</item>
+               <item>19 <hi>Sidneys</hi> Diſcourſes of Government 1698</item>
+               <item>20 <hi>Cowpers</hi> Anatomy <hi>Oxon.</hi> 1698</item>
+               <item>21 <hi>Drydens Virgil,</hi> large paper 1697</item>
+               <item>22 <hi>Sams</hi>'s <hi>Britannica</hi> 1676</item>
+               <item>23 <hi>Moxons</hi> Practical Perſpective 1670</item>
+               <item>24 <hi>Sandys</hi>'s <hi>Ovids Metamorphoſes,</hi> with Sculptures 1632</item>
+               <item>25 <hi>Turkiſh</hi> Hiſtory by <hi>Knolles</hi> 1631</item>
+               <item>26 <hi>Mace</hi>'s Muſick Monument 1676</item>
+               <item>27 The Treaſury of Times 1619</item>
+               <item>28 <hi>Burtons</hi> Melancholy 1660</item>
+               <item>29 <hi>Pembrokes Arcadia</hi> 1638</item>
+               <item>30 <hi>Euſebius</hi>'s Eccleſiaſtical Hiſtory, tranſl. by Dr <hi>Hanmer</hi> 1638</item>
+               <item>31 The Bp of <hi>Coventry</hi> and <hi>Litchſield</hi> on the Sacrament 1631</item>
+               <item>32 <hi>Montague</hi>'s Acts and Monuments of the Church 1642</item>
+               <item>33 <hi>Fullers</hi> Holy War <hi>Cambridge</hi> 1631</item>
+               <item>34 <hi>Clerks</hi> Sermons <hi>Lond.</hi> 1637</item>
+               <item>35 <hi>Philips</hi> New World of <hi>Engliſh</hi> Words 1663</item>
+               <item>36 The Alvearie, or Quadruple Dictionary, Eng. Fren. Lat. and G<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </item>
+               <item>37 <hi>Lucans Pharſalia,</hi> tranſl. by Sir <hi>Arthur Gorges</hi> 1614</item>
+               <item>38 <hi>Cottons</hi> Concordance of the Old Teſtament 1627</item>
+               <item>39 — Of the New Teſtament 1622</item>
+               <item>40 <hi>Idem iteram</hi> 1622</item>
+               <item>41 <hi>Spencers</hi> Works 1611</item>
+               <item>42 <hi>Snapes</hi> Anatomy of an Horſe 1686</item>
+               <item>43 An account of the Earl of <hi>Caſtlemains</hi> Embaſſy to <hi>Rome</hi> wit<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sculptures</item>
+               <item>44 <hi>Eomazzo</hi>'s Art of Painting, Engliſh'd by <hi>R. Haydocke</hi> 159<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <pb n="5" facs="tcp:54337:4"/>
+               <head>Engliſh Books in <hi>Quarto</hi>
+               </head>
+               <item>1 <hi>FReſnoys</hi> Art of Painting, tranſlated by Mr <hi>Dryden,</hi> large Pa<g ref="char:EOLhyphen"/>per, gilt leaves, lettered and fillitted <hi>Lond.</hi>
+               </item>
+               <item>2 <hi>Browns</hi> Vulgar Errors 1658</item>
+               <item>3 <hi>Engliſh</hi> Bible by <hi>Barker</hi> 1606</item>
+               <item>4 The Chriſtian Dictionary</item>
+               <item>5 <hi>Moxons</hi> Tutor to Aſtronomy and Geography 1686</item>
+               <item>6 <hi>Boyls</hi> Experimental Philoſophy <hi>Oxon</hi> 1663.</item>
+               <item>7 Experiments touching the Air, with his defence. <hi>&amp;c. <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>8 <hi>Digby</hi> of Bodies. 1645</item>
+               <item>9 <hi>Cawdreys</hi> Treaſurie of Similes 1609</item>
+               <item>10 <hi>Verſltegans</hi> Reſtitution of decayed Intelligence 1605</item>
+               <item>11 <hi>Heylint</hi> Coſmography 1627</item>
+               <item>12 <hi>Cowells</hi> Interpreter 1637</item>
+               <item>13 A Comment. on the 11th Chap. of the 1ſt Epiſt. to the <hi>Corinthian<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>14 A new light to Alchimy by <hi>J. T.</hi>
+               </item>
+               <item>15 Venners Via recta ad Vitam longam 1637</item>
+               <item>16 <hi>Fr. Junius</hi>'s Art of Painting 163</item>
+            </list>
+            <list>
+               <head>Eng. Books in <hi>80</hi> &amp; <hi>120. gilt back and lettered.</hi>
+               </head>
+               <item>1 <hi>POtters</hi> Antiquities of <hi>Greece</hi> 2 vol <hi>Oxon.</hi> 1667 &amp; 169<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>2 Sir <hi>W. Temples</hi> Letters 2 vol. <hi>Lond.</hi> 1700.</item>
+               <item>3 Miſcellanies 2 vol. 1681 &amp; 1682</item>
+               <item>4 Obſervations on the United Provinces 1693</item>
+               <item>5 Memoirs 1692</item>
+               <item>6 <hi>Ludlows</hi> Memoirs 3 vol. 1692</item>
+               <item>7 Hiſtory of <hi>Polibyus Engl.</hi> by Sir <hi>H. Sheer,</hi> with a Character of <hi>Po<g ref="char:EOLhyphen"/>lybius</hi> by My <hi>Dryden,</hi> 2 vol. 1691</item>
+               <item>8 <hi>Lucians</hi> Works <hi>Engl.</hi> by <hi>Ferrand. Spence,</hi> 4 vol. 1684</item>
+               <item>9 <hi>Kennets</hi> Lives and Characters of the <hi>Grecian</hi> Poets 1697</item>
+               <item>10 Hiſt of the Revolution in <hi>Sweden,</hi> tranſlated by Dr <hi>Mitchel</hi> 1696</item>
+               <item>11 <hi>Congreves</hi> Amendments to <hi>Colliers</hi> falſe Quotations 1698</item>
+               <item>12 <hi>Colliers</hi> anſwer to them 1699</item>
+               <item>13 <hi>Tolands</hi> Chriſtianity not myſterious 1696</item>
+               <item>14 <hi>Lack</hi> of Education 1695</item>
+               <item>15 Earl of <hi>Angleſeys</hi> Memoirs 1693</item>
+               <item>16 <hi>Miltons</hi> Hiſtory of <hi>Brittain</hi> 1695</item>
+               <item>17 — defence of the people of <hi>England</hi> 1692</item>
+               <item>18 <hi>Haekes</hi> Collection of Voyages 1699</item>
+               <item>19 <hi>Keills</hi> Examination of Dr <hi>Burnets</hi> Theory 1698</item>
+               <item>20 <hi>Hobbs</hi> Tripos 1694</item>
+               <item>21 <hi>Wallers</hi> Poems 1694</item>
+               <item>22 <hi>Creech</hi>'s <hi>Lucretius Engliſh</hi> 1683</item>
+               <item>23 Father <hi>Arril</hi>'s Travels, done out of French 1693</item>
+               <item>24 Life of <hi>Deſcartes</hi> from the French 1693</item>
+               <item>25 The Reaſonableneſs of Chriſtianity 1695</item>
+               <item>26 <hi>Machiavels</hi> diſcourſes on <hi>Livy,</hi> and his Prince 16 4</item>
+               <pb n="6" facs="tcp:54337:5"/>
+               <item> 27 <hi>Evelyns</hi> Calendarium Hortenſe 1699</item>
+               <item>28 — Acetaria 1699</item>
+               <item>29 <hi>Rays Engl.</hi> Proverbs 1670</item>
+               <item>30 The Art of Thinking, done from the French 1696</item>
+               <item>31 — of ſpeaking 1669</item>
+               <item>32 The Revolution in <hi>Portugal Anno</hi> 1640, from the French 1700</item>
+               <item>33 <hi>Hobbs</hi> Civil Wars of <hi>England</hi> 1679</item>
+               <item>34 Judge <hi>Jenkins</hi>'s Works 1681</item>
+               <item>35 Supplement to <hi>Burnets</hi> Letters 1688</item>
+               <item>36 Sir <hi>Wm Davenants</hi> Gondibert 1651</item>
+               <item>37 A Letter to the Deiſts 1696</item>
+            </list>
+            <list>
+               <head>PLAIN BOUND.</head>
+               <item>1 <hi>BOyles</hi> Experiments touching Cold 1665</item>
+               <item>2 — Hydroſtatical Paradoxes 1666</item>
+               <item>3 — Origine of Forms and Qualities 1665</item>
+               <item>4 <hi>Potters</hi> Anſwer to a Pamphlet called Charity miſtaken 1634</item>
+               <item>5 <hi>Thorndyke</hi> of the Government of Churches 1641</item>
+               <item>6 Animadverſions on <hi>Congreves</hi> anſwer to <hi>Collier</hi> 1698</item>
+               <item>7 <hi>Aſcham</hi> of the Confuſions and Revolutions of Government 1694</item>
+               <item>8 <hi>Hunts</hi> Gauger 1673</item>
+               <item>9 <hi>Hobbs</hi>'s Tracts 1681</item>
+               <item>10 — <hi>Homer</hi> in <hi>Engliſh</hi> Verſe 1677</item>
+               <item>11 <hi>Partridges</hi> Aſtrological Vade Mecum 1679</item>
+               <item>12 <hi>Burnets</hi> Letters <hi>Rotterdam</hi> 1686</item>
+               <item>13 <hi>Donnes</hi> Poems 1639</item>
+               <item>14 <hi>Fullers</hi> twelve Sermons on the 4th of St <hi>Matthew</hi>
+               </item>
+               <item>15 <hi>Moxons</hi> Mathematical Dictionary 1679</item>
+               <item>16 a Deſcription of Meteors by <hi>W. F.</hi> 1665</item>
+               <item>17 <hi>Owens</hi> Eſchol, or a Cluſter of the Fruit of <hi>Canaan</hi> 1648</item>
+               <item>18 The Golden Meane 1638</item>
+               <item>19 Browns Religio Medici 1659</item>
+               <item>20 <hi>Quarles</hi> Divine Poems 1630</item>
+               <item>21 Country Gaugers Vade Mecum by <hi>R. Collins</hi> 1667</item>
+               <item>22 <hi>Ogylby,</hi> Book of the Roads 1679</item>
+               <item>23 Proverbs and Aphoriſms by K. <hi>James</hi>
+               </item>
+               <item>24 <hi>Baxters</hi> Aphoriſms 1640</item>
+               <item>25 Good thoughts in bad times, by Dr. <hi>Fuller</hi> 1659</item>
+               <item>26 Sir <hi>W Ralelghs</hi> obſervations on Trade 1653</item>
+               <item>27 A Map of the Microcoſm, by <hi>H. Brown</hi> 1642</item>
+               <item>28 <hi>Gerards</hi> Meditations <hi>Gamb.</hi> 1651</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:54337:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
